@@ -1,7 +1,6 @@
 
-body {
- background-image: url("../images/background.png");
-
+body {  
+    background-image: url("../images/background.png");
 }
 
 .footer {
@@ -17,3 +16,4 @@ body {
     left: 0;
     right: 0;
 }
+
