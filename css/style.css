@@ -1,0 +1,22 @@
+
+body {
+ background-image: url("../images/background.png");
+
+}
+
+.nav-style {
+    font-size: small;
+    margin-right: 28px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    font-size: small;
+}
+
+
+
+
+
