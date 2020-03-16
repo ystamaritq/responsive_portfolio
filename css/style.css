@@ -1,13 +1,19 @@
+html, body {
+    height: 100%;
+}
 
-body {  
+body {
+    display: flex;
+    flex-direction: column;
     background-image: url("../images/background.png");
 }
 
+.main-content {
+    flex: 1 0 auto;
+}
+
 .footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    font-size: small;
+    flex-shrink: 0;
 }
 
 .pos-abs-b-1 {
