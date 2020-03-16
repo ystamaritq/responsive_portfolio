@@ -1,4 +1,4 @@
-# # Responsible Portfolio
+# Responsible Portfolio
 
 This project hosts the source code for my Portfolio website.
 
