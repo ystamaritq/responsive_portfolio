@@ -1,6 +1,6 @@
-# # Responsible Portafolio
+# # Responsible Portfolio
 
-This project host the source code for Horiseon's website.
+This project hosts the source code for my Portfolio website.
 
 ## Installing / Getting Started
 
@@ -20,19 +20,19 @@ No additional setup required.
 
 Below is a summary of the key files for this project and their purpose:
 
-- **index.html** single page application main html page
-- **assets/css/style.css** main site stylesheet
-- **assets/images** all images used by website
+- **index.html** About me html page
+- **portfolio.html** Portfolio html page
+- **contact.html** Contact html page
+- **css/style.css** main site stylesheet
+- **images** all images used by website
+
+Additional Libraries:
+
+- **bootstrap 4** This site uses bootstrap 4 css with Minty color profile
 
 ## Features
 
-This site showcases Horiseon's capabilities on:
-
-- Search Engine Optimization
-- Online Reputation Management
-- Social Media Marketing
-
-![index preview](readme_content/index_preview.png)
+This site showcases a responsible website, with information about me, ioncluding my portfolio and contact form.
 
 
 ## Licensing
